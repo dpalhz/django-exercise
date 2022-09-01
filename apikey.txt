@@ -1,0 +1,2 @@
+HEROKU_API_KEY: 1aba5f8a-1a16-4aae-8baf-f05e57ccac34
+HEROKU_APP_NAME: dipa-alhaza
